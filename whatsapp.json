@@ -1,0 +1,10 @@
+{
+  "version": "remote-2026-10-07",
+  "appRoot": "#app .app-wrapper-web, #app .two, #app",
+  "chatList": "[data-testid=\"chat-list\"], #pane-side",
+  "chatPane": "[data-testid=\"conversation-panel\"], #main",
+  "composerInput": "[data-testid=\"conversation-compose-box-input\"], div[contenteditable=\"true\"][data-tab]",
+  "attachButton": "[data-testid=\"clip\"], [title=\"Anexar\"]",
+  "searchInput": "[data-testid=\"chat-list-search\"], div[contenteditable=\"true\"][data-tab=\"3\"]",
+  "header": "[data-testid=\"conversation-header\"], header"
+}
